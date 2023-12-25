@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.accourdion {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.main-div {
+    border: 2px solid #0a194988;
+    border-radius: 10px;
+    width: 25vw;
+    min-height: 60vh;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Accheader {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    margin: 10px;
+    background-color: #88888888;
+    border-radius: 4px;
+}
+
+.answear {
+    background-color: #0a194988;
+    margin: 1px;
+}
+
+.queslogo {
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+.maindivacc {
+    background-color: #0a194988;
+    border-radius: 4px;
+}
